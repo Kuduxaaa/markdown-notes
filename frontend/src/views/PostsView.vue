@@ -21,7 +21,6 @@
 import SidebarComponent from '@/components/SiderbarComponent.vue';
 import IndicatorComponent from '@/components/IndicatorComponent.vue';
 import ContentComponent from '@/components/ContentComponent.vue';
-// import eventBus from '../eventBus'
 
 export default {
     name: 'App',
