@@ -66,7 +66,6 @@
 <script>
 import SidebarItemComponent from '@/components/SidebarItemComponent.vue';
 import SearchComponent from '@/components/SearchComponent.vue';
-// import eventBus from '../eventBus'
 
 export default {
     name: 'SidebarComponent',
