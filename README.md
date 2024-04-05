@@ -2,6 +2,8 @@
 
 Markdown Notes App is a web application built with Vue.js and Flask-RESTful for creating and managing markdown-based notes.
 
+![#Screenshot](media/screenshot.png)
+
 ## Features
 
 -   Create, read, update, and delete markdown notes.
