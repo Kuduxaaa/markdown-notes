@@ -1,3 +1,4 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Kuduxaaa/markdown-notes-backend.git
+	branch = main
