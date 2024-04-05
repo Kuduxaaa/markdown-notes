@@ -67,6 +67,15 @@ npm run serve
 
 5. Open your browser and visit [localhost:8080](http://localhost:8080) to access the application.
 
+## Futures
+
+- [ ] User Sign-in / Sign-Up
+- [ ] Private notes
+- [ ] Share note via link
+- [ ] Realtime updates
+- [ ] Posts page for guest
+- [ ] Account page
+
 ## Contributing
 
 Contributions are welcome! Please check the [Contributing Guidelines](CONTRIBUTING.md) for more information.
