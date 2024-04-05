@@ -1,5 +1,3 @@
-User
-```
 <template>
     <div>
         <SidebarComponent ref="sidebar" @width-updated="updateContentMargin" @edit-mode-changed="togglePreviw" />
